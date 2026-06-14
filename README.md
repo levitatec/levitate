@@ -21,6 +21,8 @@ A lightweight, zero-dependency, keyless command-line AI coding assistant.
 
 ## 💻 Installation
 
+# either install via these instructions or on are most recent releases 
+
 ### Windows
 1. Download `installers/install_windows.bat`.
 2. Double-click to run it.
