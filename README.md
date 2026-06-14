@@ -1,5 +1,7 @@
 # Levitate Coder CLI
 
+## Alert: Levitate is currently not working/functioning, it will be fixed as soon as possible (around 6 days)
+
 A lightweight, zero-dependency, keyless command-line AI coding assistant.
 
 ```
